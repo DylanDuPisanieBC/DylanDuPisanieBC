@@ -5,7 +5,7 @@ Hi, My names' Dylan.
 I'm currently studying for my Bsc Computing specializing in software engineering at Belgium Campus.  
 The purpose of this account is to get familiar with Github! My projects and class work will also be stored here.
 ## Languages
-* C# - Preferred
+* C#
 * JavaScript
 * HTML
 * CSS
